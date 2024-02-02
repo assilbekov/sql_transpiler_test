@@ -40,3 +40,5 @@ To run new test case you should use `testSQLGeneration` function with take the r
 The solution supports arguments listed in the `Operator` enum and macro.
 
 The solution is writter using pure functions. To extend the solution to use more Dialect's, new filter clause types, or new literal types the new functions should be written and put in the code. Code is written to make that extension simple.
+
+
